@@ -1,0 +1,9 @@
+## Interface: 100005
+## Title: Linkachiever
+## Notes: A World of Warcraft Retail achievement link tool 
+## Version: 1.0.0 (@project-version@)
+## Author: Tacaly
+## LoadOnDemand: 1
+
+# This line is a comment
+core.xml
