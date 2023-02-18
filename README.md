@@ -1,3 +1,4 @@
+![logo](logo/linkachiever-high-resolution-logo-color-on-transparent-background.png)
 # Linkachiever
 A World of Warcraft Retail achievement link tool
 
